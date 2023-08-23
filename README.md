@@ -11,3 +11,4 @@
 
 **Obs.:** Havia feito o código um pouco diferente, mas devido a um erro - meu obviamente - tive que codificar novamente, mas o resultado está satisfatório. Realizei algumas alterações no código, mais estéticos.
 
+**OBS02:** Devido a problemas com chave SSH demorei para enviar e após commit 01 consegui resolve-lo.
